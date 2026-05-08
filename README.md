@@ -9,5 +9,3 @@
 
 <body style="font-family:courier new;"><p align="center"><b>have you seen me?</b>
 <p align="center"><sub> doubles &<br>mediamates int<br><br><sub>haven't interacted w half<br> the media on here but its ok
-
-<p align="center"><a href="https://github.com/kittinan/spotify-github-profile"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31epsfvcp3s6jk2cnjtczym5smom&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false">
